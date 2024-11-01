@@ -1,4 +1,4 @@
-# followers_and_following
+# bun_instagram_analysis
 
 To install dependencies:
 
